@@ -1,4 +1,4 @@
-## <h1>Hi, I'm Matt! An <a href="<a href="http://linkedin.com/in/matthew-maldonado'> IT Professional</a>! 👋😄
+## <h1>Hi, I'm Matt! An<a href="http://linkedin.com/in/matthew-maldonado"> IT Professional</a>! 👋😄
   
 <h2>👨‍💻 Information Technology Projects:</h2>
 
